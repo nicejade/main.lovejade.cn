@@ -1,6 +1,6 @@
 ## [幽居空谷轩](latest-vuepress-blog.html)
 
-**博客介绍**：[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，由最新 `VuePress` 所驱动；部署于 `Github Page`；采用 `Google Analytics` 作为分析方案；支持 `Pwa`，如添加 Icon 到主屏幕，缓存页面支持离线访问等。目前打算是，会在后续用心经营[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，用以承载[各个博客](https://www.lovejade.cn/zh/blog/)、[新产出的博文](https://www.lovejade.cn/zh/article/)、以及[个人开源作品](https://www.lovejade.cn/zh/works/)等。
+**博客介绍**：[幽居空谷轩](https://main.lovejade.cn/?utm_source=lovejade.cn)，由最新 `VuePress` 所驱动；部署于 `Github Page`；采用 `Google Analytics` 作为分析方案；支持 `Pwa`，如添加 Icon 到主屏幕，缓存页面支持离线访问等。目前打算是，会在后续用心经营[幽居空谷轩](https://main.lovejade.cn/?utm_source=lovejade.cn)，用以承载[各个博客](https://main.lovejade.cn/zh/blog/)、[新产出的博文](https://main.lovejade.cn/zh/article/)、以及[个人开源作品](https://main.lovejade.cn/zh/works/)等。
 
 **名字由来**：向来比较喜欢“[轩](https://baike.baidu.com/item/轩/55500)”这个字，此前在很多博客命名中，都使用了这个字；依据个人之喜好，命名当也是用这“轩”字来结尾（同理，照旧会是五个字）；至于前面几个字选取，当时的操作是这样的：因一时间不好选定，就打开[古诗文网](https://www.gushiwen.org/?utm_source=site.lovejade.cn)，略翻了下，杜工部的一首[《佳人》](https://baike.baidu.com/item/佳人/3690867)映入眼帘，一读之下，当即选定此博客名：`幽居空谷轩`，描述则是诗句的首尾两句：“绝代有佳人，幽居在空谷。天寒翠袖薄，日暮倚修竹”。
 

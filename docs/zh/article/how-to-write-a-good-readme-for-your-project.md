@@ -137,7 +137,7 @@ npm test
 
 ### 您可能感兴趣的文章
 
-- [如何快速删除 Git 仓库新增修改](https://www.lovejade.cn/zh/article/how-to-quickly-delete-git-repository-new-changes.html)
+- [如何快速删除 Git 仓库新增修改](https://main.lovejade.cn/zh/article/how-to-quickly-delete-git-repository-new-changes.html)
 - [Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/)
 - [Git 常见问题及解决办法](https://quickapp.lovejade.cn/git-common-problems-and-solutions/)
 - [为高效而生：Arya Jarvis](https://www.jeffjade.com/2019/08/25/156-arya-jarvis-born-for-efficiency/)

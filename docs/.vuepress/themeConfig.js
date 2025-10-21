@@ -1,7 +1,7 @@
 const helper = require('./../helper/')
 
 module.exports = {
-  repo: 'nicejade/www.lovejade.cn',
+  repo: 'nicejade/main.lovejade.cn',
   editLinks: false,
   docsDir: './dist',
   // 开启 vuepress 内置搜索
@@ -16,11 +16,11 @@ module.exports = {
   comment: {
     clientID: 'ca88ac4a7b6ff8b64d00',
     clientSecret: '556f72ac84f3f71db43c6eeeaa716c03c4c06419',
-    repo: 'www.lovejade.cn',
+    repo: 'main.lovejade.cn',
     owner: 'nicejade',
     admin: ['nicejade'],
     perPage: 5,
-    distractionFreeMode: false  // Facebook-like distraction free mode
+    distractionFreeMode: false // Facebook-like distraction free mode
   },
   locales: {
     '/': {
@@ -31,7 +31,7 @@ module.exports = {
       nav: [
         {
           text: '博客',
-          link: '/zh/blog/',
+          link: '/zh/blog/'
         },
         {
           text: '博文',

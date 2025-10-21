@@ -1,4 +1,4 @@
-<p align="center"><a href="https://main.lovejade.cn/?utm_source=github.com" target="_blank"><img width="100"src="https://raw.githubusercontent.com/nicejade/www.lovejade.cn/master/docs/.vuepress/public/logo.png"></a></p>
+<p align="center"><a href="https://main.lovejade.cn/?utm_source=github.com" target="_blank"><img width="100"src="https://raw.githubusercontent.com/nicejade/main.lovejade.cn/master/docs/.vuepress/public/logo.png"></a></p>
 
 <h1 align="center">幽居空谷轩</h1>
 

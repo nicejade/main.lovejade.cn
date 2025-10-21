@@ -13,7 +13,7 @@ meta:
 
 ## 博客介绍
 
-[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，由最新 `VuePress` 所驱动；部署于 `Github Page`；采用 `Google Analytics` 作为分析方案；支持 `Pwa`，如添加 Icon 到主屏幕，缓存页面支持离线访问等。目前打算是，会在后续用心经营[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，用以承载[各个博客](https://www.lovejade.cn/zh/blog/)、[新产出的博文](https://www.lovejade.cn/zh/article/)、以及[个人开源作品](https://www.lovejade.cn/zh/works/)等。
+[幽居空谷轩](https://main.lovejade.cn/?utm_source=lovejade.cn)，由最新 `VuePress` 所驱动；部署于 `Github Page`；采用 `Google Analytics` 作为分析方案；支持 `Pwa`，如添加 Icon 到主屏幕，缓存页面支持离线访问等。目前打算是，会在后续用心经营[幽居空谷轩](https://main.lovejade.cn/?utm_source=lovejade.cn)，用以承载[各个博客](https://main.lovejade.cn/zh/blog/)、[新产出的博文](https://main.lovejade.cn/zh/article/)、以及[个人开源作品](https://main.lovejade.cn/zh/works/)等。
 
 ## 名字由来
 

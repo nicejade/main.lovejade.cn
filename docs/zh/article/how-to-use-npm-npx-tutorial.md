@@ -169,7 +169,7 @@ os: darwin x64
 
 ### 您可能感兴趣的文章
 
-- [如何为项目编写良好 README](https://www.lovejade.cn/zh/article/how-to-write-a-good-readme-for-your-project.html)
+- [如何为项目编写良好 README](https://main.lovejade.cn/zh/article/how-to-write-a-good-readme-for-your-project.html)
 - [Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/)
 - [Git 常见问题及解决办法](https://quickapp.lovejade.cn/git-common-problems-and-solutions/)
 - [为高效而生：Arya Jarvis](https://www.jeffjade.com/2019/08/25/156-arya-jarvis-born-for-efficiency/)

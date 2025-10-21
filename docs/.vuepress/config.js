@@ -27,9 +27,9 @@ module.exports = {
       `
     ],
     [
-      ('script',
+      'script',
       {},
-      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: "ca-pub-8586652723015758",  enable_page_level_ads: true });')
+      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: "ca-pub-8586652723015758",  enable_page_level_ads: true });'
     ]
   ],
   locales: {

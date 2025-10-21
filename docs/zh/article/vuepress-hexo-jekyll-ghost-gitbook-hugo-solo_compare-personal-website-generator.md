@@ -95,7 +95,7 @@ Gitbook，基于 GitHub/Git 和 Markdown（或 AsciiDoc）编写和维护高质�
 
 [VuePress](https://vuepress.vuejs.org/)，由  `Vue`  驱动的静态网站生成器；它追求**简洁至上**，以最少的配置帮助你专注于写作；使用它可享受  `Vue` + `Webpack`  的开发体验，可以在  `Markdown`  中使用  `Vue`  组件，又可以使用  `Vue`  来开发自定义主题；VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为  **SPA**  运行，使得页面具有非常好的加载性能和搜索引擎优化（SEO）；另外还内置了诸多优质特性，比如 Markdown 拓展，自动生成 Service Worker、Google Analytics 集成、多语言支持、以及功能丰富的默认主题等等...... 如果您有搭建技术文档、个人博客的需求，那么  [VuePress](https://vuepress.vuejs.org/?utm_source=jeffjade.com)  将是超棒的选择。
 
-**个人品评**：Vuepress 是由 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 驱动的静态网站生成器，所以，这针对前端开发者，这个是非常棒的选择；另外，它追求简洁至上，以最少的配置，帮助你专注于写作，更对 `Markdown` 增加了额外的功能，很大程度上提升了阅读体验。只不过，目前发展不久，各种相关性插件还不足，但这也正是前端爱好者发光发热的契机。Vuepress 示例站点：[静晴轩别苑](https://nice.lovejade.cn/?utm_source=jeffjade.com)、[幽居空谷轩](https://www.lovejade.cn/?utm_source=jeffjade.com)。
+**个人品评**：Vuepress 是由 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 驱动的静态网站生成器，所以，这针对前端开发者，这个是非常棒的选择；另外，它追求简洁至上，以最少的配置，帮助你专注于写作，更对 `Markdown` 增加了额外的功能，很大程度上提升了阅读体验。只不过，目前发展不久，各种相关性插件还不足，但这也正是前端爱好者发光发热的契机。Vuepress 示例站点：[静晴轩别苑](https://nice.lovejade.cn/?utm_source=jeffjade.com)、[幽居空谷轩](https://main.lovejade.cn/?utm_source=jeffjade.com)。
 
 ### [Docz](https://site.lovejade.cn/post/5b225adfd1c6ca419a9f7dfe)
 

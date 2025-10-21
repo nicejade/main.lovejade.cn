@@ -15,8 +15,22 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-150x150.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-    ['script', { src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" }],
-    ['script', {}, '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: "ca-pub-8586652723015758",  enable_page_level_ads: true });']
+    ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-H932RPDG7P' }],
+    [
+      'script',
+      {},
+      `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-H932RPDG7P');
+      `
+    ],
+    [
+      ('script',
+      {},
+      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: "ca-pub-8586652723015758",  enable_page_level_ads: true });')
+    ]
   ],
   locales: {
     '/': {
@@ -51,17 +65,13 @@ module.exports = {
     '@vuepress/medium-zoom',
     '@vuepress/nprogress',
     [
-      '@vuepress/pwa', {
+      '@vuepress/pwa',
+      {
         serviceWorker: true,
         updatePopup: {
-          message: "发现新内容可用",
-          buttonText: "刷新"
+          message: '发现新内容可用',
+          buttonText: '刷新'
         }
-      }
-    ],
-    [
-      '@vuepress/google-analytics', {
-        ga: 'UA-86109050-8'
       }
     ]
   ]

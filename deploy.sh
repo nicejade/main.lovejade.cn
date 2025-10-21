@@ -10,17 +10,17 @@ yarn run build
 cd ./docs/dist
 
 # 如果是发布到自定义域名
-echo 'www.lovejade.cn' > CNAME
+echo 'main.lovejade.cn' > CNAME
 
 echo 'google.com, pub-8586652723015758, DIRECT, f08c47fec0942fa0' > ads.txt
 
 git init
 git add -A
-git commit -m 'deploy update 🎉'
+git commit -m 'build for deploy update 🎉'
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:nicejade/www.lovejade.cn.git master:gh-pages
+git push -f git@github.com:nicejade/main.lovejade.cn.git master:gh-pages
 cd -

@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 contacts:
-  - href: //nicelinks.site?utm_source=www.lovejade.cn
+  - href: //site.lovejade.cn/?utm_source=www.lovejade.cn
     desc: 倾城
     type: nicelinks
   - href: //read.lovejade.cn/?utm_source=www.lovejade.cn

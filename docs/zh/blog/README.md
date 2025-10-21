@@ -2,7 +2,7 @@
 
 **博客介绍**：[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，由最新 `VuePress` 所驱动；部署于 `Github Page`；采用 `Google Analytics` 作为分析方案；支持 `Pwa`，如添加 Icon 到主屏幕，缓存页面支持离线访问等。目前打算是，会在后续用心经营[幽居空谷轩](https://www.lovejade.cn/?utm_source=lovejade.cn)，用以承载[各个博客](https://www.lovejade.cn/zh/blog/)、[新产出的博文](https://www.lovejade.cn/zh/article/)、以及[个人开源作品](https://www.lovejade.cn/zh/works/)等。
 
-**名字由来**：向来比较喜欢“[轩](https://baike.baidu.com/item/轩/55500)”这个字，此前在很多博客命名中，都使用了这个字；依据个人之喜好，命名当也是用这“轩”字来结尾（同理，照旧会是五个字）；至于前面几个字选取，当时的操作是这样的：因一时间不好选定，就打开[古诗文网](https://www.gushiwen.org/?utm_source=nicelinks.site)，略翻了下，杜工部的一首[《佳人》](https://baike.baidu.com/item/佳人/3690867)映入眼帘，一读之下，当即选定此博客名：`幽居空谷轩`，描述则是诗句的首尾两句：“绝代有佳人，幽居在空谷。天寒翠袖薄，日暮倚修竹”。
+**名字由来**：向来比较喜欢“[轩](https://baike.baidu.com/item/轩/55500)”这个字，此前在很多博客命名中，都使用了这个字；依据个人之喜好，命名当也是用这“轩”字来结尾（同理，照旧会是五个字）；至于前面几个字选取，当时的操作是这样的：因一时间不好选定，就打开[古诗文网](https://www.gushiwen.org/?utm_source=site.lovejade.cn)，略翻了下，杜工部的一首[《佳人》](https://baike.baidu.com/item/佳人/3690867)映入眼帘，一读之下，当即选定此博客名：`幽居空谷轩`，描述则是诗句的首尾两句：“绝代有佳人，幽居在空谷。天寒翠袖薄，日暮倚修竹”。
 
 **搭建初衷**：蛮早就注册了 `lovejade.cn` 域名，一直以来使用的都是二级域名，如: [JadeYang(杨琼璞)](https://github.lovejade.cn/)，[静晴轩别苑](https://nice.lovejade.cn)，[天意人间舫](https://blog.lovejade.cn)等；此次要将此域名使用，其初衷是为了可以将本域名下网站，接入 `Google AdSense`，从而可以在分享的同时略薅羊毛，以促进更充盈的分享热情，从而形成良性循环，于人于己，皆有裨益。
 
@@ -10,13 +10,13 @@
 
 ## [静轩之别苑](ghost-blog.html)
 
-[静轩之别苑](https://quickapp.lovejade.cn/?utm_source=nice.lovejade.cn)，由 [Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff) 所驱动，运用 [Talk](https://nicelinks.site/post/5c40aeaaa5957e07a40b3101) 作评论系统，以 `Google Analytics` 统计分析；现基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 部署于[阿里云](https://nicelinks.site/post/5b3e412d615bf842b6091041)服务器。(于 2019 年元月)。
+[静轩之别苑](https://quickapp.lovejade.cn/?utm_source=nice.lovejade.cn)，由 [Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff) 所驱动，运用 [Talk](https://site.lovejade.cn/post/5c40aeaaa5957e07a40b3101) 作评论系统，以 `Google Analytics` 统计分析；现基于 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 部署于[阿里云](https://site.lovejade.cn/post/5b3e412d615bf842b6091041)服务器。(于 2019 年元月)。
 
-> [Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff) 一个简洁、纯粹的内容创作与发布平台，目由非盈利性组织 Ghost Foundation 和一群优秀的独立贡献者共同维护。她是基于 Node.js 构建的开源博客平台。Ghost 具有易用的书写界面和体验，博客内容默认采用 [Markdown](https://nicelinks.site/tags/Markdown) 语法书写。其目标是取代臃肿的 `Wordpress`。[Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff) 具有一个非常强劲好用的后台，丰富的编辑功能，让你触手可及；允许注入代码，结构化数据，自定义 Facebook 和 Twitter 的社交媒体共享卡，使您能够为社交媒体添加自定义图像，标题和说明，十分利于 `SEO`；并且集成大量外部服务，允许您创建和自定义各种连接的应用程序；并且支持自定义主题，允许多人协作等等等等，更多功能可以参见[强大如斯，Ghost 开源博客平台](https://quickapp.lovejade.cn/ghost-open-source-blog-platform/)。── 出自[倾城之链 | Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff)。
+> [Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff) 一个简洁、纯粹的内容创作与发布平台，目由非盈利性组织 Ghost Foundation 和一群优秀的独立贡献者共同维护。她是基于 Node.js 构建的开源博客平台。Ghost 具有易用的书写界面和体验，博客内容默认采用 [Markdown](https://site.lovejade.cn/tags/Markdown) 语法书写。其目标是取代臃肿的 `Wordpress`。[Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff) 具有一个非常强劲好用的后台，丰富的编辑功能，让你触手可及；允许注入代码，结构化数据，自定义 Facebook 和 Twitter 的社交媒体共享卡，使您能够为社交媒体添加自定义图像，标题和说明，十分利于 `SEO`；并且集成大量外部服务，允许您创建和自定义各种连接的应用程序；并且支持自定义主题，允许多人协作等等等等，更多功能可以参见[强大如斯，Ghost 开源博客平台](https://quickapp.lovejade.cn/ghost-open-source-blog-platform/)。── 出自[倾城之链 | Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff)。
 
-早先有运用若干工具（[Hexo](https://nicelinks.site/post/5c4c56d5a5957e07a40b3116)、[Jekyll](https://nicelinks.site/post/5c4c59c1a5957e07a40b3118)、[VuePress](https://nicelinks.site/post/5b2298f5d1c6ca419a9f7e00)、[Docz](https://nicelinks.site/post/5b225adfd1c6ca419a9f7dfe)）构建了[诸多个人博客](https://nice.lovejade.cn/zh/blog/)。此[静轩之别苑](https://quickapp.lovejade.cn/)的搭建，着实是被 [Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff) 强大的功能，与其曼妙的设计所打动；目前有打算用她作为个人最新**主博客**；这不仅能够令人可以有更棒的阅读体验，同时由其所带来的巨大便捷性，能使得可以撰写更多的文字。
+早先有运用若干工具（[Hexo](https://site.lovejade.cn/post/5c4c56d5a5957e07a40b3116)、[Jekyll](https://site.lovejade.cn/post/5c4c59c1a5957e07a40b3118)、[VuePress](https://site.lovejade.cn/post/5b2298f5d1c6ca419a9f7e00)、[Docz](https://site.lovejade.cn/post/5b225adfd1c6ca419a9f7dfe)）构建了[诸多个人博客](https://nice.lovejade.cn/zh/blog/)。此[静轩之别苑](https://quickapp.lovejade.cn/)的搭建，着实是被 [Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff) 强大的功能，与其曼妙的设计所打动；目前有打算用她作为个人最新**主博客**；这不仅能够令人可以有更棒的阅读体验，同时由其所带来的巨大便捷性，能使得可以撰写更多的文字。
 
-**温馨提醒**：有将基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 来部署个人 `Ghost`博客的方法，有提交至 `Github` 仓库：[ghost-docker](https://github.com/nicejade/play-with-docker/tree/master/ghost)，可基于该配置，极速搭建属于你个人的 `Ghost`博客。
+**温馨提醒**：有将基于 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 来部署个人 `Ghost`博客的方法，有提交至 `Github` 仓库：[ghost-docker](https://github.com/nicejade/play-with-docker/tree/master/ghost)，可基于该配置，极速搭建属于你个人的 `Ghost`博客。
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## [微信公众号](wechat-blog.html)
 
-对于开通公众号，当时特有留下一篇文章：[微信公众号：静晴轩](https://jeffjade.com/2016/03/23/2016-03-23-toss-wechat-public_no)，以作说明。谈起其初衷，无外乎这两点：**跟风**与**无奈**。你知道，对于 `wechat` 那不支持 `Markdown` 的‘威武’存在，同步(写)文章显得颇为麻烦；且又不便于引用外链、亦不能修改更新等设定，令人难以心生赞誉；只是有庞大的用户群体，且便于推广扩散；而个人博客也面临与`聚合网`做斗争等，故而才上了这条船，那是 2016 年 3 月。如今依旧(更)坚信：**独立的才是自己的**；加之如今公众号的红利已过，所以在这方面的经营，只是将博客那边已经沉淀出来的文章，运用工具同步罢了。再怎么威武的平台，不自由的同时，也必定携带你方唱罢我登场的`新陈代谢`；故而，力荐每个人要建立自己可以掌控的会场，打造属于自己的`个人品牌`，任江湖兴衰更替，我仍自有一方天地纵横；而这便也是个人作品[「倾城之链」](https://nicelinks.site/?utm_source=nice.lovejade.cn) 的初衷。
+对于开通公众号，当时特有留下一篇文章：[微信公众号：静晴轩](https://jeffjade.com/2016/03/23/2016-03-23-toss-wechat-public_no)，以作说明。谈起其初衷，无外乎这两点：**跟风**与**无奈**。你知道，对于 `wechat` 那不支持 `Markdown` 的‘威武’存在，同步(写)文章显得颇为麻烦；且又不便于引用外链、亦不能修改更新等设定，令人难以心生赞誉；只是有庞大的用户群体，且便于推广扩散；而个人博客也面临与`聚合网`做斗争等，故而才上了这条船，那是 2016 年 3 月。如今依旧(更)坚信：**独立的才是自己的**；加之如今公众号的红利已过，所以在这方面的经营，只是将博客那边已经沉淀出来的文章，运用工具同步罢了。再怎么威武的平台，不自由的同时，也必定携带你方唱罢我登场的`新陈代谢`；故而，力荐每个人要建立自己可以掌控的会场，打造属于自己的`个人品牌`，任江湖兴衰更替，我仍自有一方天地纵横；而这便也是个人作品[「倾城之链」](https://site.lovejade.cn/?utm_source=nice.lovejade.cn) 的初衷。
 
 ## [静晴轩别苑](vuepress-blog.html)
 

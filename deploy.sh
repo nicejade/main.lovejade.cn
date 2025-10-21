@@ -22,5 +22,5 @@ git commit -m 'build for deploy update 🎉'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:nicejade/main.lovejade.cn.git master:gh-pages
+git push -f git@github.com:nicejade/main.lovejade.cn.git main:gh-pages
 cd -

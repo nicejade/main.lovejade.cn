@@ -17,26 +17,26 @@ meta:
 
 > **题记**：又一天结束了。除过又增加了一堆揉皱的为纸处，眼前仍然没有一个字。第三天重蹈覆辙。三天以后，竟然仍是一片空白。叫天天不应，叫地地不灵。开始在记谙不停地转圈圈走，走，走，像磨道的一头驴。从高烧似的激烈一直走到满头热汗变为冰凉。冰凉的汗水使燃烧的思索冷静了下来。冷静在这种时候可以使人起死回生。—— 路遥[《早晨从中午开始》](https://blog.lovejade.cn/2016/02/26/the-morning-started-at-noon-1.html)
 
-![倾城之链](//image.nicelinks.site/nice-fantasy.jpg)
+![倾城之链](//image.lovejade.cn/nice-fantasy.jpg)
 
-2017 疲忙之年；闲暇时光也多，却总孤寂以连绵；热血所至时，多用来设计 & 折腾最新个人作品：[「倾城之链｜ NICE LINKS」](https://nicelinks.site)，前端代码开源于[nicelinks-vue-client](https://github.com/nicejade/nicelinks-vue-client)；其旨在打造一款优质 Web 应用，在锻炼个人技法的同时，希望以其独特的有用性，可以帮助到更多的人；在此篇中，将分享下关于[「倾城之链」](https://nicelinks.site)，及其背后的故事，希望您会喜欢。
+2017 疲忙之年；闲暇时光也多，却总孤寂以连绵；热血所至时，多用来设计 & 折腾最新个人作品：[「倾城之链｜ NICE LINKS」](https://site.lovejade.cn)，前端代码开源于[nicelinks-vue-client](https://github.com/nicejade/nicelinks-vue-client)；其旨在打造一款优质 Web 应用，在锻炼个人技法的同时，希望以其独特的有用性，可以帮助到更多的人；在此篇中，将分享下关于[「倾城之链」](https://site.lovejade.cn)，及其背后的故事，希望您会喜欢。
 
 > **微注**：倘若您使用移动端设备，不妨在浏览器打开后，将她添加到「设备主屏幕」；如果您这样做，将为下次访问提供了极大的便利，且不会对您的设备产生副作用。当然，将会持续性对她进行优化改造，使其拥有和原生应用相媲美的体验（update@2018-01-03）。
 
 ## **故事的起源**
 
-那些年，在搭建这个人博客平台——[晚晴幽草轩](https://jeffjade.com)之时，就有深刻的认识到：**当今时代，即便是再小的个体，也当有自己的品牌**；这一观点在过去很多文章中，都有极力的去呈现、宣扬。然而，这种影响力毕竟有限，况且对于那些优质品牌，也无法起到实质性作用。要知道，当今时代，最重要莫过于「信息」；对信息的承载，可以说绝大部分是源于网络；而信息在网络中传播，起着绝对作用的则是各类网站；故此，不难得出：对于很多品牌最佳的承载，即「专属网站」；因此，在 2016 年初，就决心自己开发一款产品，为这观点以布道，使那优秀能广传；这即是[「倾城之链」](https://nicelinks.site)的动机起源。
+那些年，在搭建这个人博客平台——[晚晴幽草轩](https://jeffjade.com)之时，就有深刻的认识到：**当今时代，即便是再小的个体，也当有自己的品牌**；这一观点在过去很多文章中，都有极力的去呈现、宣扬。然而，这种影响力毕竟有限，况且对于那些优质品牌，也无法起到实质性作用。要知道，当今时代，最重要莫过于「信息」；对信息的承载，可以说绝大部分是源于网络；而信息在网络中传播，起着绝对作用的则是各类网站；故此，不难得出：对于很多品牌最佳的承载，即「专属网站」；因此，在 2016 年初，就决心自己开发一款产品，为这观点以布道，使那优秀能广传；这即是[「倾城之链」](https://site.lovejade.cn)的动机起源。
 
 ## **「倾城之链」之由来**
 
-对于为何命名为“倾城之链”，有必要率先做下阐述。兴许，很多事务，在冥冥之中早有定数，包括如今用这样的态度，来言说这作品名字的由来。既然决定开发一款产品，而那时正值从事互联网行业，所接触更多的又是「前端开发」，因为以「Web 应用」来呈现，自然成为了那最佳选择；那么接下来即是域名的选定了；域名选定，最好是好记且见名知义；其后缀，最优考虑莫过于 `.com`，你知道这种类型的域名早已被“名花有主”，若要得来，代价不菲；退而求其次，`.site`似乎是不错的选择(当时，鬼使神差的认为，后缀已有 `site`，正名中再带有这词，似有不妥，就择选以“链”代替“站”，在英文中，取其复数即为 `links`；在书写这篇文章的时候，倒觉得也还好)；既是为了云集「优秀网站」，而个人又向来偏爱「NICE」这一词汇，所以就有了后来的 `nicelinks.site`；域名已定，那么网站的名字，自然也就是 `NICE LINKS` 了。而对于进行的中文释义，按照我那天性以及后天经历，「倾城之链」则是必然的结果 😄。所以这么看来，在冥冥之中，是不是已有此定数？
+对于为何命名为“倾城之链”，有必要率先做下阐述。兴许，很多事务，在冥冥之中早有定数，包括如今用这样的态度，来言说这作品名字的由来。既然决定开发一款产品，而那时正值从事互联网行业，所接触更多的又是「前端开发」，因为以「Web 应用」来呈现，自然成为了那最佳选择；那么接下来即是域名的选定了；域名选定，最好是好记且见名知义；其后缀，最优考虑莫过于 `.com`，你知道这种类型的域名早已被“名花有主”，若要得来，代价不菲；退而求其次，`.site`似乎是不错的选择(当时，鬼使神差的认为，后缀已有 `site`，正名中再带有这词，似有不妥，就择选以“链”代替“站”，在英文中，取其复数即为 `links`；在书写这篇文章的时候，倒觉得也还好)；既是为了云集「优秀网站」，而个人又向来偏爱「NICE」这一词汇，所以就有了后来的 `site.lovejade.cn`；域名已定，那么网站的名字，自然也就是 `NICE LINKS` 了。而对于进行的中文释义，按照我那天性以及后天经历，「倾城之链」则是必然的结果 😄。所以这么看来，在冥冥之中，是不是已有此定数？
 
 ## **「倾城之链」更多机缘**
 
 食物、空气、水和休息，基本上就可以构成人类生存的「必要元素」；但，远古时期伊始，人类就不止仅周旋于这些。因而，还需补充说明的是，在起源动机之外，还有很多其他因素的支撑；简要以陈述，主要有以下几点：
 
 - **带盐布道**；如前文所言，她的起源是，为了提供一个可控的「开放平台」，为想了解更多优质讯息的人，提供方便；同时，为产出优质作品，提供一个便捷、可靠的推广之门。
-- **修炼技艺**；[「倾城之链」](https://nicelinks.site)，前端以 `Es6`、`Vue.js`为主，为方便开发，有引用 `Element-ui`；后台则依靠`Node.js`、`Koa2`，数据库选取的是 `MongoDb`，服务器部署基于 `Nginx`、`Pm2`等；坦白说，即便到现在，都仍就处于边学边做的过程；技艺的提升，和「倾城之链」越来越好，是一脉相承的；两者之间，皆不会局限于目前所知所学；后期不乏会尝试用人工智能，来完善她；这将会专门写一篇以作详述。
+- **修炼技艺**；[「倾城之链」](https://site.lovejade.cn)，前端以 `Es6`、`Vue.js`为主，为方便开发，有引用 `Element-ui`；后台则依靠`Node.js`、`Koa2`，数据库选取的是 `MongoDb`，服务器部署基于 `Nginx`、`Pm2`等；坦白说，即便到现在，都仍就处于边学边做的过程；技艺的提升，和「倾城之链」越来越好，是一脉相承的；两者之间，皆不会局限于目前所知所学；后期不乏会尝试用人工智能，来完善她；这将会专门写一篇以作详述。
 - **创造挑战**；[在一个人的日子里，你要做的只有一件事，把自己变的更优秀](https://blog.lovejade.cn/2016/02/14/inspirational-words.html)；所以在闲暇之余，总该去创造些挑战，从而让自己变得更好、更强、更有趣；在独立完成这项作品之时，涉及知识层面还是颇为广泛的；从想法诞生开始，你需要独立去完成整体策划、网站设计、前后端编码与测试、服务部署&运维(步骤 A)，额外还要优化访问体验、视觉设计、网站安全(步骤 B)；之余还要去收集反馈、推广、运营等等(步骤 C)；然后，很长时间内要在步骤 B、C 中循环往复......这中间，对人的耐心和知识广度，都有不小的考究和考验。
 - **追逐名利**；两千余年以前，司马迁先生在《货殖列传》就谈到：“天下熙熙，皆为利来；天下攘攘，皆为利往”。对于这一点，倒没什么好避讳的；虽非君子，也不自诩所谓好人，但向来认为，名利之事，当“取之有道”；因此，即便在作品之上，打些广告，也是挑选极为认可的，且保证以不影响访问体验为前提。
 
@@ -46,56 +46,56 @@ meta:
 
 ### **探索更广阔的世界，为您**
 
-在这个信息化的世界，海量的讯息可能让您不知所措；担心错过她而努力汲取的同时，却可能错过更多；[「倾城之链」](https://nicelinks.site)的存在，即是为您解决这种困扰。这里将讯息主分为四类，分别是[技术客栈](https://nicelinks.site/explore/skill)，[资源之家](https://nicelinks.site/explore/resource)，[写意人生](https://nicelinks.site/explore/life)，[信息快讯](https://nicelinks.site/explore/info)；每个网站将设有一个主题，且配备最多三个相关标签；借此以对信息分门别类，从而更好去索引。
+在这个信息化的世界，海量的讯息可能让您不知所措；担心错过她而努力汲取的同时，却可能错过更多；[「倾城之链」](https://site.lovejade.cn)的存在，即是为您解决这种困扰。这里将讯息主分为四类，分别是[技术客栈](https://site.lovejade.cn/explore/skill)，[资源之家](https://site.lovejade.cn/explore/resource)，[写意人生](https://site.lovejade.cn/explore/life)，[信息快讯](https://site.lovejade.cn/explore/info)；每个网站将设有一个主题，且配备最多三个相关标签；借此以对信息分门别类，从而更好去索引。
 
-举例说明，如若您对「优质美图」感兴趣，那么您可以去[「倾城主题」](https://nicelinks.site/collections/theme)中找寻[美图](https://nicelinks.site/theme/picture)；亦可以到[「倾城标签」](https://nicelinks.site/collections/tags)索引[美图](https://nicelinks.site/tags/美图)。当然，配备智能搜索，已列于计划之中，后续将持续迭代开发，以进一步优化使用体验。
+举例说明，如若您对「优质美图」感兴趣，那么您可以去[「倾城主题」](https://site.lovejade.cn/collections/theme)中找寻[美图](https://site.lovejade.cn/theme/picture)；亦可以到[「倾城标签」](https://site.lovejade.cn/collections/tags)索引[美图](https://site.lovejade.cn/tags/美图)。当然，配备智能搜索，已列于计划之中，后续将持续迭代开发，以进一步优化使用体验。
 
 在这里，您可以浏览全球各类智慧的结晶(PS：有待您的注入与帮助)；丰富视野的同时，可以标注您喜欢的站点，从而增加其热度排名，为更多挖掘讯息的人提供建设性参考；当然，如果您乐意，也可以将其轻松分享至各个不同平台。
 
 ### **推广，为您所看中的网站**
 
-此功能，即是“故事的起源”；[「倾城之链」](https://nicelinks.site)鼓励您，自荐或者推荐优秀网站；这里只是呈现所荐的标题和功能性描述，点击即为其打开该链接地址，并不抓取网站内容，以成聚合，故不会对该网站形成竞争关系。推荐至此，可以预见的结果是：将是获得更多一些访问量。出于 SEO(搜索引擎优化) 方面考量呢，也无需忧虑；有志将[「倾城之链」](https://nicelinks.site)打造为一个优质 Web 应用；如是，对所收录的网站而言，则将是多一个「优质外链」，那么 SEO 也将产生积极影响，何乐不为？
+此功能，即是“故事的起源”；[「倾城之链」](https://site.lovejade.cn)鼓励您，自荐或者推荐优秀网站；这里只是呈现所荐的标题和功能性描述，点击即为其打开该链接地址，并不抓取网站内容，以成聚合，故不会对该网站形成竞争关系。推荐至此，可以预见的结果是：将是获得更多一些访问量。出于 SEO(搜索引擎优化) 方面考量呢，也无需忧虑；有志将[「倾城之链」](https://site.lovejade.cn)打造为一个优质 Web 应用；如是，对所收录的网站而言，则将是多一个「优质外链」，那么 SEO 也将产生积极影响，何乐不为？
 
-额外需要声明的是，[「倾城之链」](https://nicelinks.site)对于收录目标，是有所考量的；首先得是一个网站(即主域名地址，二级域名亦可)，而非某网站麾下某个具体链接；这一点将不做妥协，毕竟这里所推崇鼓励的，是造就更多品牌级产物，而不是依附于某些品牌的子集；举例说明：
+额外需要声明的是，[「倾城之链」](https://site.lovejade.cn)对于收录目标，是有所考量的；首先得是一个网站(即主域名地址，二级域名亦可)，而非某网站麾下某个具体链接；这一点将不做妥协，毕竟这里所推崇鼓励的，是造就更多品牌级产物，而不是依附于某些品牌的子集；举例说明：
 
 > `https://domainname.com/` <span style="color:green">💯✔</span>️ `https://nice.domainname.com/` <span style="color:green">☂✔</span>️ `https://domainname.com/niceuser` <span style="color:red">✘</span>️️
 
 在此之上，还须得有着「优质内容」，在保证原创基础之上，能给人以有用或有趣，如增长见闻、提供便利、赏心悦目，凡此种种，皆无不可；再有就是一些网站本身应有的品质，譬如：排版简洁，画风耐看，访问安全，启动快速，适配良好，凡此等等，不一而足。
 
-## 如何访问[「倾城之链」](https://nicelinks.site?utm_source=github.com)
+## 如何访问[「倾城之链」](https://site.lovejade.cn?utm_source=github.com)
 
-* **WEB 浏览器**：为便捷用户访问，有为[「倾城之链」](https://nicelinks.site?utm_source=github.com)注入 [Pwa](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md) 部分功能，您可通过现代浏览器访问 [https://nicelinks.site](https://nicelinks.site?utm_source=github.com) （推荐使用 `Chrome`），可将其“**添加至主屏幕**”，它将为您创建与原生应用类似的桌面图标，以供您下次可便捷且快速打开。
+- **WEB 浏览器**：为便捷用户访问，有为[「倾城之链」](https://site.lovejade.cn?utm_source=github.com)注入 [Pwa](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md) 部分功能，您可通过现代浏览器访问 [https://site.lovejade.cn](https://site.lovejade.cn?utm_source=github.com) （推荐使用 `Chrome`），可将其“**添加至主屏幕**”，它将为您创建与原生应用类似的桌面图标，以供您下次可便捷且快速打开。
 
 > **备注**：当您在移动设备浏览器点击“**添加到主屏幕**”后，如未得到预期结果，需要您主动进行设置；可在设备`设置`项，找到`权限管理`，进而开启“**桌面快捷方式**”权限即可；这在不同供应商的手机设备间，步骤会有所差别。
 
-* **快应用**：目前[倾城之链(快应用版)](https://github.com/nicejade/nicelinks-quick-app)已在 `OPPO`、`vivo`、`小米`、`魅族`等平台上线；如果您使用 `Android` 手机，可以在*应用商店*、_负一屏_、*浏览器*等场景搜索`倾城之链`，便可**秒开**使用，亦可保存在桌面；也可以在手机[倾城之链(网页版)](https://nicelinks.site?utm_source=github.com)，点击**快应用中打开**即可(仅限于已上线平台)；未上线平台机型，可参见[倾城之链 - 快应用版](https://github.com/nicejade/nicelinks-quick-app#倾城之链快应用版)，下载[快应用调试器](https://github.com/nicejade/awesome-quickapp#调试器下载)扫码体验。
+- **快应用**：目前[倾城之链(快应用版)](https://github.com/nicejade/nicelinks-quick-app)已在 `OPPO`、`vivo`、`小米`、`魅族`等平台上线；如果您使用 `Android` 手机，可以在*应用商店*、_负一屏_、*浏览器*等场景搜索`倾城之链`，便可**秒开**使用，亦可保存在桌面；也可以在手机[倾城之链(网页版)](https://site.lovejade.cn?utm_source=github.com)，点击**快应用中打开**即可(仅限于已上线平台)；未上线平台机型，可参见[倾城之链 - 快应用版](https://github.com/nicejade/nicelinks-quick-app#倾城之链快应用版)，下载[快应用调试器](https://github.com/nicejade/awesome-quickapp#调试器下载)扫码体验。
 
-* **小程序**：在初步完成 Web、「快应用」等版本蛮久以后，最近（2019.10）有基于 `mpvue` 构建了[微信「小程序」版本](https://github.com/nicejade/nicelinks-miniprogram)，通过微信扫码、或者在微信搜索「倾城之链」即可访问。
+- **小程序**：在初步完成 Web、「快应用」等版本蛮久以后，最近（2019.10）有基于 `mpvue` 构建了[微信「小程序」版本](https://github.com/nicejade/nicelinks-miniprogram)，通过微信扫码、或者在微信搜索「倾城之链」即可访问。
 
 <div align="center">
-  <img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg" width="300px" alt="倾城之链小程序码"></img>
+  <img src="https://image.lovejade.cn/nicelinks-miniprogram-code.jpeg" width="300px" alt="倾城之链小程序码"></img>
 </div>
 
-* **桌面应用**：如果您想在 `MacOS`, `Windows` 或 `Linux` 中，获得更快捷的访问体验，您可以通过 [Nativefier](https://github.com/jiahaog/nativefier)（使任何网页成为桌面应用程序的一个命令行工具），轻松创建桌面版[「倾城之链」](https://nicelinks.site?utm_source=github.com)应用，只需运行以下命令即可：
+- **桌面应用**：如果您想在 `MacOS`, `Windows` 或 `Linux` 中，获得更快捷的访问体验，您可以通过 [Nativefier](https://github.com/jiahaog/nativefier)（使任何网页成为桌面应用程序的一个命令行工具），轻松创建桌面版[「倾城之链」](https://site.lovejade.cn?utm_source=github.com)应用，只需运行以下命令即可：
 
 ```bash
 npm install nativefier -g
-nativefier --name "倾城之链" "https://nicelinks.site/"
+nativefier --name "倾城之链" "https://site.lovejade.cn/"
 ```
 
-**备注**：如果您使用最新版本的 Chrome，用其访问 [https://nicelinks.site](https://nicelinks.site?utm_source=github.com) ，在地址栏的末尾，点击 `⊕` 符号，即可快速生成桌面版本「倾城之链」；而且，这这个独立应用中，浏览器插件扩展都在；除此外，浏览器上涉及的[倾城之链](https://nicelinks.site?utm_source=github.com)的外链，也可以右键选择在这个桌面应用中打开，NICE。
+**备注**：如果您使用最新版本的 Chrome，用其访问 [https://site.lovejade.cn](https://site.lovejade.cn?utm_source=github.com) ，在地址栏的末尾，点击 `⊕` 符号，即可快速生成桌面版本「倾城之链」；而且，这这个独立应用中，浏览器插件扩展都在；除此外，浏览器上涉及的[倾城之链](https://site.lovejade.cn?utm_source=github.com)的外链，也可以右键选择在这个桌面应用中打开，NICE。
 
-## **加入[倾城之链](https://nicelinks.site/?utm_source=nice.lovejade.cn)群聊**
+## **加入[倾城之链](https://site.lovejade.cn/?utm_source=nice.lovejade.cn)群聊**
 
-经过近两年的设计，[倾城之链](https://nicelinks.site/?utm_source=nice.lovejade.cn)目前已趋于稳定；后面将持续迭代，使其拥有更丰富的功能、以及更棒的体验。现创建[倾城之链](https://nicelinks.site/?utm_source=nice.lovejade.cn)微信、QQ 群（`984154031`），将会不定期分享最新收录的优质网站；如果您感兴趣，不妨考虑加入；另外，您对`倾城之链`有任何意见或建议，也可以通过该群向我反馈。
+经过近两年的设计，[倾城之链](https://site.lovejade.cn/?utm_source=nice.lovejade.cn)目前已趋于稳定；后面将持续迭代，使其拥有更丰富的功能、以及更棒的体验。现创建[倾城之链](https://site.lovejade.cn/?utm_source=nice.lovejade.cn)微信、QQ 群（`984154031`），将会不定期分享最新收录的优质网站；如果您感兴趣，不妨考虑加入；另外，您对`倾城之链`有任何意见或建议，也可以通过该群向我反馈。
 
-![倾城之链 QQ 群](https://image.nicelinks.site/nicelinks-qq-qrcode.jpeg)
+![倾城之链 QQ 群](https://image.lovejade.cn/nicelinks-qq-qrcode.jpeg)
 
-![倾城之链微信群](https://image.nicelinks.site/nicelinks-wechat-qrcode.jpeg)
+![倾城之链微信群](https://image.lovejade.cn/nicelinks-wechat-qrcode.jpeg)
 
 ## **写在文章最后**
 
-遥想当年，路遥先生在开始写《平凡的世界》这部巨作之时，即便已准备三年之久，然而下笔开头的时候，却依然经历了巨大的磨难；最终：先生从高烧似的激烈一直走到满头热汗变为冰凉，冰凉的汗水使燃烧的思索冷静了下来，然后平静的坐下来，顺利的开始。先生在最后的杂文[《早晨从中午开始》](https://blog.lovejade.cn/2016/02/26/the-morning-started-at-noon-1.html)中有提及：“记着列夫·托尔斯泰的话，艺术的打击力量应该放在后面。这应该是一个原则”。所以，在此文中的开头，引用先生的那段经典，一来作为缅怀，同时，也希冀借着这股榜样的力量，能够贯穿行事之始终；在此文之寄望，就是一步一步，慢慢循环渐进，将[「倾城之链」](https://nicelinks.site)打磨成一款经典而有其用的作品。
+遥想当年，路遥先生在开始写《平凡的世界》这部巨作之时，即便已准备三年之久，然而下笔开头的时候，却依然经历了巨大的磨难；最终：先生从高烧似的激烈一直走到满头热汗变为冰凉，冰凉的汗水使燃烧的思索冷静了下来，然后平静的坐下来，顺利的开始。先生在最后的杂文[《早晨从中午开始》](https://blog.lovejade.cn/2016/02/26/the-morning-started-at-noon-1.html)中有提及：“记着列夫·托尔斯泰的话，艺术的打击力量应该放在后面。这应该是一个原则”。所以，在此文中的开头，引用先生的那段经典，一来作为缅怀，同时，也希冀借着这股榜样的力量，能够贯穿行事之始终；在此文之寄望，就是一步一步，慢慢循环渐进，将[「倾城之链」](https://site.lovejade.cn)打磨成一款经典而有其用的作品。
 
 @2017-12-30 于深圳.南山 Last Modify： 2019-03-18
 

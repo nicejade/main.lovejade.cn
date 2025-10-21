@@ -3,13 +3,11 @@
     <el-carousel :height="carouselHeight" :interval="5000" arrow="always">
       <el-carousel-item v-for="item in items" :key="item.alt">
         <a :href="item.path" target="_blank" rel="noreferrer noopener">
-          <img class="advertisement-img" :src="item.image" :alt="item.alt">
+          <img class="advertisement-img" :src="item.image" :alt="item.alt" />
         </a>
       </el-carousel-item>
     </el-carousel>
-    <h2 id="文章评论">
-      <a href="#文章评论" aria-hidden="true" class="header-anchor">#</a>文章评论
-    </h2>
+    <h2 id="文章评论"><a href="#文章评论" aria-hidden="true" class="header-anchor">#</a>文章评论</h2>
     <div id="gitalk-container" v-if="$site.themeConfig.comment">
       <Comment />
     </div>
@@ -27,7 +25,7 @@ export default {
       carouselHeight: '100px',
       items: [
         {
-          path: 'https://nicelinks.site/?utm_source=lovejade.cn',
+          path: 'https://site.lovejade.cn/?utm_source=lovejade.cn',
           image: 'https://s1.ax1x.com/2020/06/13/tvs7NQ.png',
           alt: '倾城之链 - 云集全球优秀网站'
         }

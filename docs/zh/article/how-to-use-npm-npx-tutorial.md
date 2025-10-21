@@ -13,7 +13,7 @@ meta:
 
 <!-- more -->
 
-![前端利器之 npx 使用纪要](https://image.nicelinks.site/node-npm-npx.jpg)
+![前端利器之 npx 使用纪要](https://image.lovejade.cn/node-npm-npx.jpg)
 
 ## 安装
 
@@ -40,7 +40,7 @@ npm i -D rollup
 
 npx 为你提供了更好的解决方案：`npx rollup` 是你使用本地安装所需的全部工作；如果你采取额外的步骤并配置 [shell 自动回退](https://www.npmjs.com/package/npx#shell-auto-fallback)。
 
->好处是，如果调用已经安装的二进制文件，npx 基本上没有开销（Npx Official Description: Executes \<command\> either from a local node_modules/.bin, or from a central cache, installing any packages needed in order for \<command\> to run.） – 它足够聪明，可以将工具的代码，直接加载到当前运行的`node` 进程中！这与此类事情的速度差不多，并使其成为完全可以接受的脚本编写工具。
+> 好处是，如果调用已经安装的二进制文件，npx 基本上没有开销（Npx Official Description: Executes \<command\> either from a local node_modules/.bin, or from a central cache, installing any packages needed in order for \<command\> to run.） – 它足够聪明，可以将工具的代码，直接加载到当前运行的`node` 进程中！这与此类事情的速度差不多，并使其成为完全可以接受的脚本编写工具。
 
 ## 应用场景
 
@@ -156,8 +156,7 @@ node: 12.13.0
 os: darwin x64
 ```
 
-> 原文首发出处: [静轩之别苑](https://quickapp.lovejade.cn/)
-> 原文首发链接：[前端利器之 npx 使用纪要](https://quickapp.lovejade.cn/how-to-use-npm-npx-tutorial/)
+> 原文首发出处: [静轩之别苑](https://quickapp.lovejade.cn/) 原文首发链接：[前端利器之 npx 使用纪要](https://quickapp.lovejade.cn/how-to-use-npm-npx-tutorial/)
 
 于 2019.12.10 于深圳.福田 last modify: 2019.12.11.
 
